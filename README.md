@@ -1,4 +1,4 @@
-# ccg-reserve-service
+# vue3-tailwindcss-template
 
 This is a template built using Vite, Vue 3, TailwindCSS, Pinia, and Vue Router. It uses JavaScript and includes the following packages:
 
